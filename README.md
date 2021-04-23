@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an internship job in software programming 
 - ⚡ Fun fact: I love Rap music 🤟🤟. When I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
 
-## Technical 
+## ⚡ Technologies ⚡
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
