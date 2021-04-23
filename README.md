@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Rap music 🤟🤟. When I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
 
 ## Technical 
+![image](https://user-images.githubusercontent.com/59415928/115813754-f1a41000-a41d-11eb-8707-6479d94aa5b6.png)
