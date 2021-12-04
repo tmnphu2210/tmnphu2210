@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 👆👆 My maxim using pseudocode ☝☝
 ## Hi there, I'm Truong Minh Nam Phu 👋👋
 - 🌱 I’m currently learning Information Technology, major in Software Engineering 💻💻
-- 📚 I am a 3nd year student at [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh city 
-- 🛫 Up to now, I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)) 
+- 📚 I am a 3nd year student at [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh city, Vietnam 
+- 🛫 Up to now, I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)), Auckland, New Zealand 
 - 👯 I’m looking for an internship job in software programming 
 - ⚡ Fun fact: I love Rap music 🤟🤟. But when I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
 
