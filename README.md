@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <br>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></span>
 
-![Tezukashuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=tezukashuko&count_private=true)
+![Tezukashuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=tezukashuko&count_private=true&show_icons=true&theme=radical)
 
