@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 
 ![image](https://user-images.githubusercontent.com/59415928/115727589-ee713b80-a3ad-11eb-8511-0c2c3221a2ae.png)
-
+![image](https://github.com/tezukashuko/tezukashuko/blob/main/maxim.png)
 👆👆 My maxim using pseudocode ☝☝
 ## Hi there, I'm Truong Minh Nam Phu 👋👋
 - 🌱 I’m currently learning Information Technology, major in Software Engineering 💻💻
