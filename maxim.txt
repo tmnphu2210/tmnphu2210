@@ -1,0 +1,12 @@
+while (you.life == 'Alive') {
+  you.status = 'Winner'
+  if (you.current == 'Fail') you.try_again('INF')
+  else if (you.current == 'Success') you.find_new_challenge('Harder')
+  else {
+    you.status = 'Loser';
+    Break;
+  }
+}
+you.life == 'Existing'
+you.reset('in the next 100 days')
+return HELL;
