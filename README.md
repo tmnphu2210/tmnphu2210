@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezukashuko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tezukashuko&show_icons=true&locale=en&layout=compact" alt="tezukashuko" /></p>
+<p><img align="left" src="https://github-statistic-tezukashuko.vercel.app/api/top-langs?username=tezukashuko&show_icons=true&locale=en&layout=compact" alt="tezukashuko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tezukashuko&show_icons=true&locale=en" alt="tezukashuko" /></p>
+<p>&nbsp;<img align="center" src="https://github-statistic-tezukashuko.vercel.app/api?username=tezukashuko&show_icons=true&locale=en" alt="tezukashuko" /></p>
 
