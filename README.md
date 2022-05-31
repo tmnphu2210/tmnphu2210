@@ -4,13 +4,24 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 ![image](https://github.com/tezukashuko/tezukashuko/blob/main/maxim.png)
-👆👆 My maxim using pseudocode ☝☝
-## Hi there, I'm Truong Minh Nam Phu 👋👋
+<p align="center">👆👆 My maxim using pseudocode ☝☝</p>
+<h1 align="center">Hi there 👋, I'm Truong Minh Nam Phu</h1>
+<h3 align="center">A passionate software engineer from SaiGon, Vietnam</h3>
+
 - 🌱 I’m currently learning Information Technology, major in Software Engineering 💻💻
 - 📚 I am a 3nd year student at [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh city, Vietnam 
 - 🛫 Up to now, I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)), Auckland, New Zealand 
 - 👯 I’m looking for an internship job in software programming 
 - ⚡ Fun fact: I love Rap music 🤟🤟. But when I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iamtezu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtezu" height="30" width="40" /></a>
+<a href="https://fb.com/iamtezu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamtezu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tezukashuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tezukashuko" height="30" width="40" /></a>
+<a href="https://discord.gg/#1285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1285" height="30" width="40" /></a>
+</p>
 
 ## ⚡ Technologies ⚡
 <span><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,4 +46,8 @@ Here are some ideas to get you started:
 ![Tezukashuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=tezukashuko&count_private=true&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezukashuko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tezukashuko&show_icons=true&locale=en&layout=compact" alt="tezukashuko" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tezukashuko&show_icons=true&locale=en" alt="tezukashuko" /></p>
 
