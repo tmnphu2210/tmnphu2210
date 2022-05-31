@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></span>
 
-![Tezukashuko's GitHub stats](https://github-statistic-tezukashuko.vercel.app/api?username=tezukashuko&count_private=true&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-statistic-tezukashuko.vercel.app/api/top-langs/?username=tezukashuko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Tezukashuko's GitHub stats](https://github-readme-stats-tezukashuko.vercel.app/api?username=tezukashuko&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-tezukashuko.vercel.app/api/top-langs/?username=tezukashuko&count_private=true&langs_count=8&layout=compact)
 
