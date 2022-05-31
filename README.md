@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🛫 Up to now, I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)), Auckland, New Zealand 
 - 👯 I’m looking for an internship job in software programming 
 - ⚡ Fun fact: I love Rap music 🤟🤟. But when I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
-
+- 📧 Contact me, <a href="mailto:tezukashuko@gmail.com">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
