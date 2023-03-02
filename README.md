@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software engineer from SaiGon, Vietnam</h3>
 
 - 🌱 I’m currently learning Information Technology, major in Software Engineering 💻💻
-- 📚 I am a 3nd year student at [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh city, Vietnam 
-- 🛫 Up to now, I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)), Auckland, New Zealand 
+- 📚 I am a 4nd year student at [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh city, Vietnam 
+- 🛫 I am a cross-border student at AUT ([Auckland University of Technology](https://www.aut.ac.nz/)), Auckland, New Zealand 
 - 👯 I’m looking for an internship job in software programming 
+- 🔭 I’m currently working with bbv Vietnam in Capstone Project about HR management system
 - ⚡ Fun fact: I love Rap music 🤟🤟. But when I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
 - 📧 Contact me, <a href="mailto:tezukashuko@gmail.com">here</a>
 
