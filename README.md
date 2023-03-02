@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an internship job in software programming 
 - 🔭 I’m currently working with bbv Vietnam in Capstone Project about HR management system
 - ⚡ Fun fact: I love Rap music 🤟🤟. But when I wanna focus on coding, I usually heard Lo-Fi music 🎧🎧.
-- 📧 Contact me, <a href="mailto:tezukashuko@gmail.com">here</a>
+- 📧 Contact me, <a href="mailto:tmnphu2210@gmail.com">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
