@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 799 Contributions in the Year 2024
+> 🏆 800 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,16 +100,21 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.00 % 
+TypeScript               5 mins              █████████████████░░░░░░░░   66.84 % 
+Ruby                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 2 mins              █████████████████████████   100.00 % 
+WebStorm                 5 mins              █████████████████░░░░░░░░   66.84 % 
+RubyMine                 2 mins              ████████░░░░░░░░░░░░░░░░░   33.16 % 
 
 🐱‍💻 Projects: 
-frontend-core            2 mins              █████████████████████████   100.00 % 
+frontend-core            5 mins              █████████████████░░░░░░░░   66.84 % 
+ats                      1 min               █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+employment-hero          1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -129,7 +134,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 05:47:40 UTC
+ Last Updated on 09/11/2024 01:45:35 UTC
 <!--END_SECTION:waka-->
 
 
