@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
@@ -134,7 +132,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 01:45:35 UTC
+ Last Updated on 10/11/2024 01:54:38 UTC
 <!--END_SECTION:waka-->
 
 
