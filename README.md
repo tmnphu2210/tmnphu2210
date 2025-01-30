@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -100,21 +98,16 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     18 mins             █████████████████████░░░░   83.55 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-employment-hero          19 mins             ███████████████████████░░   91.44 % 
-cxops_scripts            1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -134,7 +127,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 06:32:35 UTC
+ Last Updated on 30/01/2025 06:32:13 UTC
 <!--END_SECTION:waka-->
 
 
