@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 949 Contributions in the Year 2025
+> 🏆 956 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,19 +100,19 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     3 hrs 8 mins        ████████████████████████░   95.69 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Ruby                     1 hr 7 mins         ██████████████████████░░░   88.85 % 
+YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RubyMine                 3 hrs 16 mins       █████████████████████████   100.00 % 
+RubyMine                 1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-employment-hero          3 hrs 8 mins        ████████████████████████░   95.69 % 
-application-infrastructur8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+employment-hero          1 hr 7 mins         ██████████████████████░░░   88.85 % 
+application-infrastructur8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 
 💻 Operating System: 
-Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -132,7 +132,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 06:47:34 UTC
+ Last Updated on 06/08/2025 06:47:38 UTC
 <!--END_SECTION:waka-->
 
 
