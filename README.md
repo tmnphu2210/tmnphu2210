@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 969 Contributions in the Year 2025
+> 🏆 970 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,18 +100,18 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     2 hrs 42 mins       █████████████████████████   99.64 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Ruby                     4 hrs 11 mins       █████████████████████████   99.77 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-RubyMine                 2 hrs 42 mins       █████████████████████████   100.00 % 
+RubyMine                 4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-employment-hero          2 hrs 42 mins       █████████████████████████   100.00 % 
+employment-hero          4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -131,7 +131,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 06:46:53 UTC
+ Last Updated on 09/08/2025 06:40:16 UTC
 <!--END_SECTION:waka-->
 
 
