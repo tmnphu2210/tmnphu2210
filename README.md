@@ -57,15 +57,13 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 985 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,18 +98,19 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     5 hrs 6 mins        █████████████████████████   99.81 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Ruby                     8 hrs 21 mins       █████████████████████████   99.38 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-RubyMine                 5 hrs 7 mins        █████████████████████████   100.00 % 
+RubyMine                 8 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-employment-hero          5 hrs 7 mins        █████████████████████████   100.00 % 
+employment-hero          8 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -131,7 +130,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 06:46:38 UTC
+ Last Updated on 12/08/2025 06:41:49 UTC
 <!--END_SECTION:waka-->
 
 
