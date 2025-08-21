@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,061 Contributions in the Year 2025
+> 🏆 1,065 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,20 +100,20 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     11 hrs 42 mins      █████████████████████████   99.05 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Ruby                     8 hrs               █████████████████████████   98.54 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RubyMine                 11 hrs 49 mins      █████████████████████████   100.00 % 
+RubyMine                 8 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-employment-hero          11 hrs 49 mins      █████████████████████████   100.00 % 
+employment-hero          8 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -133,7 +133,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 06:40:39 UTC
+ Last Updated on 21/08/2025 06:50:30 UTC
 <!--END_SECTION:waka-->
 
 
