@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,235 Contributions in the Year 2025
+> 🏆 1,252 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,7 +135,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 06:41:04 UTC
+ Last Updated on 30/09/2025 06:39:45 UTC
 <!--END_SECTION:waka-->
 
 
