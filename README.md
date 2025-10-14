@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,369 Contributions in the Year 2025
+> 🏆 1,375 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,20 +100,20 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     3 hrs 12 mins       ████████████████████████░   96.73 % 
-Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Ruby                     3 hrs 19 mins       ████████████████████████░   96.85 % 
+Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RubyMine                 3 hrs 18 mins       █████████████████████████   100.00 % 
+RubyMine                 3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-employment-hero          3 hrs 18 mins       █████████████████████████   100.00 % 
+employment-hero          3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 06:40:57 UTC
+ Last Updated on 14/10/2025 06:39:15 UTC
 <!--END_SECTION:waka-->
 
 
