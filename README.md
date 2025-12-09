@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,706 Contributions in the Year 2025
+> 🏆 1,727 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,7 +138,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 06:48:53 UTC
+ Last Updated on 09/12/2025 06:44:18 UTC
 <!--END_SECTION:waka-->
 
 
