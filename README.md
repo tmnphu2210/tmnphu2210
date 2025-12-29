@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,829 Contributions in the Year 2025
+> 🏆 1,830 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,11 +118,11 @@ frontend-core            30 mins             █░░░░░░░░░░�
 Mac                      8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 D                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
@@ -135,7 +135,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2025 06:43:10 UTC
+ Last Updated on 29/12/2025 06:49:53 UTC
 <!--END_SECTION:waka-->
 
 
