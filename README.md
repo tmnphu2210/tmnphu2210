@@ -100,22 +100,16 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     4 hrs 14 mins       ████████████████████████░   94.36 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 4 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-workflow-engine          3 hrs 45 mins       █████████████████████░░░░   83.48 % 
-employment-hero          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-learning-management-syste19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -135,7 +129,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 06:59:47 UTC
+ Last Updated on 15/02/2026 07:02:05 UTC
 <!--END_SECTION:waka-->
 
 
