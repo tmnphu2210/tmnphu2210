@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -100,16 +100,25 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               12 mins             █████████████████████░░░░   82.27 % 
+JSON5                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████░░░░   83.42 % 
+RubyMine                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontend-core            12 mins             █████████████████████░░░░   83.42 % 
+learning-management-syste2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+employment-hero          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+workflow-engine          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+infrastructure           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -129,7 +138,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 07:06:27 UTC
+ Last Updated on 28/02/2026 06:53:10 UTC
 <!--END_SECTION:waka-->
 
 
