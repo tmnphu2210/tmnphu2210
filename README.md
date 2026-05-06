@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 673 Contributions in the Year 2026
+> 🏆 682 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,16 +100,20 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 15 mins       █████████████████░░░░░░░░   68.30 % 
+Other                    1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 43 mins       ███████████████░░░░░░░░░░   59.59 % 
+Unknown Editor           2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.22 % 
+WebStorm                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontend-core            6 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -129,7 +133,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 08:23:10 UTC
+ Last Updated on 06/05/2026 08:39:41 UTC
 <!--END_SECTION:waka-->
 
 
