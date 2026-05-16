@@ -57,13 +57,15 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 743 Contributions in the Year 2026
+> 🏆 744 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +90,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 09:22:05 UTC
+ Last Updated on 16/05/2026 08:16:21 UTC
 <!--END_SECTION:waka-->
 
 
