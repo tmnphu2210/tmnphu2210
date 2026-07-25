@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -71,6 +73,56 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.65 % 
+🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Ruby                     9 hrs 47 mins       ███████████████████░░░░░░   76.71 % 
+Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Terraform                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 49 mins       █████████████░░░░░░░░░░░░   53.50 % 
+RubyMine                 5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🐱‍💻 Projects: 
+ats                      11 hrs 57 mins      ███████████████████████░░   93.74 % 
+workflow-engine          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+files                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+employment-hero          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+infrastructure           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+💻 Operating System: 
+Mac                      12 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -88,7 +140,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 08:39:00 UTC
+ Last Updated on 25/07/2026 08:19:44 UTC
 <!--END_SECTION:waka-->
 
 
