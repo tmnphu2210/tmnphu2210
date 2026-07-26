@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -100,27 +100,27 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     9 hrs 47 mins       ███████████████████░░░░░░   76.71 % 
-Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Terraform                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Ruby                     11 hrs 25 mins      ███████████████████░░░░░░   77.61 % 
+Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 49 mins       █████████████░░░░░░░░░░░░   53.50 % 
-RubyMine                 5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              7 hrs 52 mins       █████████████░░░░░░░░░░░░   53.55 % 
+RubyMine                 6 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.64 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-ats                      11 hrs 57 mins      ███████████████████████░░   93.74 % 
-workflow-engine          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-files                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-employment-hero          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-infrastructure           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+ats                      13 hrs 59 mins      ████████████████████████░   95.05 % 
+workflow-engine          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+files                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+employment-hero          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+frontend-core            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      12 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -140,7 +140,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 08:19:44 UTC
+ Last Updated on 26/07/2026 08:37:33 UTC
 <!--END_SECTION:waka-->
 
 
