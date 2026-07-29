@@ -57,13 +57,17 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,134 Contributions in the Year 2026
+> 🏆 1,138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,6 +75,79 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.65 % 
+🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Ruby                     12 hrs 10 mins      ████████████████████░░░░░   78.15 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+🔥 Editors: 
+Claude Code              8 hrs 15 mins       █████████████░░░░░░░░░░░░   53.04 % 
+RubyMine                 7 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.60 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🐱‍💻 Projects: 
+ats                      14 hrs 41 mins      ████████████████████████░   94.35 % 
+application-infrastructur15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+workflow-engine          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+employment-hero          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+files                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+💻 Operating System: 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 32 mins (74.15%)
+
+✍️ 3,383 lines written by AI, 561 lines written by hand (85.78% AI-written)
+
+🔤 137,496,415 Input Tokens, 288,260 Output Tokens
+
+💵 $424.01 Estimated AI Cost This Week
+
+🧠 34 AI Sessions, 318 AI Prompts
+
+Sonnet                   4,230 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.78% of written lines came from AI
+📚 Verbose Prompter — average 4,056 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 79.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -88,7 +165,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 08:48:40 UTC
+ Last Updated on 29/07/2026 08:53:23 UTC
 <!--END_SECTION:waka-->
 
 
