@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,187 Contributions in the Year 2026
+> 🏆 1,188 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,60 +102,61 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     10 hrs 12 mins      ██████████████████░░░░░░░   72.42 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Ruby                     8 hrs 36 mins       ██████████████████░░░░░░░   71.17 % 
+Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Terraform                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 2 mins        ██████████████░░░░░░░░░░░   57.06 % 
-RubyMine                 6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              6 hrs 19 mins       █████████████░░░░░░░░░░░░   52.29 % 
+RubyMine                 5 hrs 43 mins       ████████████░░░░░░░░░░░░░   47.35 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-ats                      12 hrs 35 mins      ██████████████████████░░░   89.34 % 
-application-infrastructur1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-employment-hero          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-files                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-ebf-benefits-management  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+ats                      9 hrs 33 mins       ████████████████████░░░░░   79.07 % 
+application-infrastructur51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+employment-hero          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+infrastructure           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+files                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      14 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 40 mins (75.68%)
+⏱ AI Coding Time: 8 hrs 10 mins (67.65%)
 
-✍️ 1,902 lines written by AI, 52 lines written by hand (97.34% AI-written)
+✍️ 1,203 lines written by AI, 43 lines written by hand (96.55% AI-written)
 
-🔤 115,578,774 Input Tokens, 263,910 Output Tokens
+🔤 89,827,752 Input Tokens, 210,384 Output Tokens
 
-💵 $350.09 Estimated AI Cost This Week
+💵 $289.82 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 282 AI Prompts
+🧠 40 AI Sessions, 243 AI Prompts
 
-Sonnet                   2,195 lines         █████████████████████████   100.00 % 
+Sonnet                   1,550 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.34% of written lines came from AI
-📚 Verbose Prompter — average 5,693 characters per prompt
+🤖 AI-Driven — 96.55% of written lines came from AI
+📚 Verbose Prompter — average 3,224 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.53% of changed lines were hand-edited
+🚀 High AI Trust — 3.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-D                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+D                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -165,7 +166,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 08:48:49 UTC
+ Last Updated on 06/08/2026 08:50:18 UTC
 <!--END_SECTION:waka-->
 
 
