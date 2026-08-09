@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,81 +75,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.62 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Ruby                     9 hrs 33 mins       ███████████████████░░░░░░   77.74 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-🔥 Editors: 
-RubyMine                 5 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.62 % 
-Claude Code              5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-🐱‍💻 Projects: 
-ats                      9 hrs 38 mins       ████████████████████░░░░░   78.44 % 
-employment-hero          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-frontend-core            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-infrastructure           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-phutruong                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-
-💻 Operating System: 
-Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 6 mins (57.84%)
-
-✍️ 913 lines written by AI, 54 lines written by hand (94.42% AI-written)
-
-🔤 52,421,512 Input Tokens, 134,589 Output Tokens
-
-💵 $196.65 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 207 AI Prompts
-
-Sonnet                   1,313 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.42% of written lines came from AI
-📚 Verbose Prompter — average 2,376 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.14% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -167,7 +92,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 07:06:09 UTC
+ Last Updated on 09/08/2026 07:08:57 UTC
 <!--END_SECTION:waka-->
 
 
