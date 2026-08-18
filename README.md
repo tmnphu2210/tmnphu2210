@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2043%20mins-blue?style=flat)
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,251 Contributions in the Year 2026
+> 🏆 1,253 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,30 +102,30 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     5 hrs 44 mins       ████████████████████░░░░░   80.67 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Ruby                     6 hrs 16 mins       ████████████████████░░░░░   81.95 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-RubyMine                 4 hrs 53 mins       █████████████████░░░░░░░░   68.65 % 
-Claude Code              2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+RubyMine                 5 hrs 25 mins       ██████████████████░░░░░░░   70.80 % 
+Claude Code              2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
 
 🐱‍💻 Projects: 
-ats                      5 hrs 30 mins       ███████████████████░░░░░░   77.39 % 
-employment-hero          1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-files                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-application-infrastructur7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+ats                      6 hrs 2 mins        ████████████████████░░░░░   78.94 % 
+employment-hero          1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+files                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+application-infrastructur7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (42.42%)
+⏱ AI Coding Time: 3 hrs 1 min (39.51%)
 
 ✍️ 866 lines written by AI, 170 lines written by hand (83.59% AI-written)
 
@@ -161,7 +161,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 07:10:35 UTC
+ Last Updated on 18/08/2026 06:57:45 UTC
 <!--END_SECTION:waka-->
 
 
