@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,280 Contributions in the Year 2026
+> 🏆 1,281 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,48 +102,48 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     4 hrs 13 mins       ███████████████░░░░░░░░░░   59.40 % 
-TypeScript               1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-ERB                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Ruby                     3 hrs 19 mins       ██████████████░░░░░░░░░░░   54.10 % 
+TypeScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+ERB                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-RubyMine                 3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
-Claude Code              2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
-VS Code                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Claude Code              2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
+RubyMine                 2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
+VS Code                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 
 🐱‍💻 Projects: 
-ats                      4 hrs 14 mins       ███████████████░░░░░░░░░░   59.71 % 
-frontend-core            2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-employment-hero          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-files                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-application-infrastructur2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+ats                      3 hrs 27 mins       ██████████████░░░░░░░░░░░   56.13 % 
+frontend-core            2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
+employment-hero          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+files                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+application-infrastructur2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (53.5%)
+⏱ AI Coding Time: 3 hrs 30 mins (56.97%)
 
-✍️ 1,163 lines written by AI, 52 lines written by hand (95.72% AI-written)
+✍️ 1,471 lines written by AI, 27 lines written by hand (98.2% AI-written)
 
-🔤 11,210,820 Input Tokens, 201,296 Output Tokens
+🔤 3,108,195 Input Tokens, 200,386 Output Tokens
 
-💵 $51.91 Estimated AI Cost This Week
+💵 $39.53 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 93 AI Prompts
+🧠 14 AI Sessions, 60 AI Prompts
 
-Sonnet                   1,534 lines         █████████████████████████   100.00 % 
+Sonnet                   1,838 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.72% of written lines came from AI
-📚 Verbose Prompter — average 8,723 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.28% of changed lines were hand-edited
+🤖 AI-Driven — 98.2% of written lines came from AI
+📚 Verbose Prompter — average 4,234 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -163,7 +163,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 07:00:25 UTC
+ Last Updated on 22/08/2026 06:54:05 UTC
 <!--END_SECTION:waka-->
 
 
