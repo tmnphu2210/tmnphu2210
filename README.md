@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,285 Contributions in the Year 2026
+> 🏆 1,289 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,31 +102,31 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.74 % 
-TypeScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-ERB                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Ruby                     2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.10 % 
+TypeScript               1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.49 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+ERB                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
-RubyMine                 2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.26 % 
-VS Code                  1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Claude Code              2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.30 % 
+RubyMine                 1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   31.02 % 
+VS Code                  1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 
 🐱‍💻 Projects: 
-ats                      3 hrs 25 mins       ███████████████░░░░░░░░░░   59.03 % 
-frontend-core            2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
-employment-hero          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-application-infrastructur2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+ats                      2 hrs 53 mins       ██████████████░░░░░░░░░░░   54.95 % 
+frontend-core            2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
+employment-hero          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+application-infrastructur2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (60.64%)
+⏱ AI Coding Time: 3 hrs 30 mins (66.68%)
 
 ✍️ 1,471 lines written by AI, 27 lines written by hand (98.2% AI-written)
 
@@ -162,7 +162,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 07:14:19 UTC
+ Last Updated on 25/08/2026 07:01:15 UTC
 <!--END_SECTION:waka-->
 
 
