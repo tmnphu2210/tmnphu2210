@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,291 Contributions in the Year 2026
+> 🏆 1,293 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,76 +75,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.62 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Ruby                     2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
-TypeScript               2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.76 % 
-Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 12 mins       █████████████░░░░░░░░░░░░   53.92 % 
-RubyMine                 1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-VS Code                  1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-
-🐱‍💻 Projects: 
-frontend-core            3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.57 % 
-ats                      2 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.05 % 
-employment-hero          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-files                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Mac                      5 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 18 mins (72.5%)
-
-✍️ 1,885 lines written by AI, 29 lines written by hand (98.48% AI-written)
-
-🔤 1,932,774 Input Tokens, 245,007 Output Tokens
-
-💵 $32.04 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 62 AI Prompts
-
-Sonnet                   2,185 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.48% of written lines came from AI
-📚 Verbose Prompter — average 4,238 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -162,7 +92,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 07:01:58 UTC
+ Last Updated on 27/08/2026 17:36:39 UTC
 <!--END_SECTION:waka-->
 
 
