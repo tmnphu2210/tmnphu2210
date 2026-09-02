@@ -102,48 +102,48 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     50 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
-Markdown                 41 mins             ████████░░░░░░░░░░░░░░░░░   30.34 % 
-TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Ruby                     24 mins             ████████████░░░░░░░░░░░░░   46.55 % 
+Markdown                 16 mins             ████████░░░░░░░░░░░░░░░░░   31.90 % 
+TypeScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Claude Code              1 hr 21 mins        ███████████████░░░░░░░░░░   59.54 % 
-RubyMine                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-VS Code                  27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Claude Code              27 mins             █████████████░░░░░░░░░░░░   52.86 % 
+RubyMine                 14 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+VS Code                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 
 🐱‍💻 Projects: 
-frontend-core            1 hr 7 mins         ████████████░░░░░░░░░░░░░   49.18 % 
-ats                      59 mins             ███████████░░░░░░░░░░░░░░   43.42 % 
-files                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-employment-hero          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+ats                      33 mins             ████████████████░░░░░░░░░   63.37 % 
+frontend-core            10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+files                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+employment-hero          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (81.74%)
+⏱ AI Coding Time: 39 mins (74.96%)
 
-✍️ 504 lines written by AI, 24 lines written by hand (95.45% AI-written)
+✍️ 90 lines written by AI, 22 lines written by hand (80.36% AI-written)
 
-🔤 1,446,166 Input Tokens, 61,830 Output Tokens
+🔤 508,693 Input Tokens, 11,575 Output Tokens
 
-💵 $14.59 Estimated AI Cost This Week
+💵 $6.20 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 6 AI Sessions, 21 AI Prompts
 
-Sonnet                   518 lines           █████████████████████████   100.00 % 
+Sonnet                   194 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.45% of written lines came from AI
-📚 Verbose Prompter — average 2,909 characters per prompt
+🤖 AI-Driven — 80.36% of written lines came from AI
+📚 Verbose Prompter — average 4,375 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.43% of changed lines were hand-edited
+🚀 High AI Trust — 19.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -163,7 +163,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 11:33:58 UTC
+ Last Updated on 02/09/2026 11:09:07 UTC
 <!--END_SECTION:waka-->
 
 
