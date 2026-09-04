@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,293 Contributions in the Year 2026
+> 🏆 1,303 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,76 +75,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.62 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Ruby                     11 mins             █████████████░░░░░░░░░░░░   51.64 % 
-TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   34.94 % 
-CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-
-🔥 Editors: 
-RubyMine                 11 mins             █████████████░░░░░░░░░░░░   51.30 % 
-VS Code                  10 mins             ███████████░░░░░░░░░░░░░░   44.30 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-
-🐱‍💻 Projects: 
-frontend-core            10 mins             ███████████░░░░░░░░░░░░░░   44.54 % 
-files                    8 mins              █████████░░░░░░░░░░░░░░░░   36.42 % 
-ats                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-
-💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 mins (49.2%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 133,103 Input Tokens, 2,226 Output Tokens
-
-💵 $4.08 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Sonnet                   104 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -162,7 +92,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 11:05:45 UTC
+ Last Updated on 04/09/2026 11:07:07 UTC
 <!--END_SECTION:waka-->
 
 
