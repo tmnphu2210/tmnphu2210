@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -102,45 +102,47 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     22 mins             ██████████░░░░░░░░░░░░░░░   40.11 % 
-Markdown                 19 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Ruby                     1 hr 1 min          █████████████░░░░░░░░░░░░   51.80 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              40 mins             ██████████████████░░░░░░░   73.18 % 
-RubyMine                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Claude Code              57 mins             ████████████░░░░░░░░░░░░░   48.41 % 
+RubyMine                 41 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 
 🐱‍💻 Projects: 
-ats                      55 mins             █████████████████████████   99.98 % 
-frontend-core            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+ats                      1 hr 23 mins        ██████████████████░░░░░░░   70.02 % 
+frontend-core            21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+employment-hero          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (79.6%)
+⏱ AI Coding Time: 1 hr 4 mins (53.93%)
 
-✍️ 116 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 640 lines written by AI, 1 lines written by hand (99.84% AI-written)
 
-🔤 260,828 Input Tokens, 35,293 Output Tokens
+🔤 348,204 Input Tokens, 59,672 Output Tokens
 
-💵 $5.10 Estimated AI Cost This Week
+💵 $8.86 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 21 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-Sonnet                   81 lines            █████████████████░░░░░░░░   69.23 % 
-Opus                     36 lines            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Sonnet                   605 lines           ████████████████████████░   94.38 % 
+Opus                     36 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,073 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 5,296 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 3.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -160,7 +162,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 10:29:00 UTC
+ Last Updated on 06/09/2026 10:47:38 UTC
 <!--END_SECTION:waka-->
 
 
