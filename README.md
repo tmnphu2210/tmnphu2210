@@ -102,50 +102,50 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       ████████████████░░░░░░░░░   62.27 % 
-Ruby                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-API Blueprint            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               3 hrs 27 mins       ███████████████░░░░░░░░░░   60.82 % 
+Ruby                     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+API Blueprint            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 3 mins        █████████████████░░░░░░░░   68.27 % 
-VS Code                  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-RubyMine                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Claude Code              3 hrs 50 mins       █████████████████░░░░░░░░   67.51 % 
+VS Code                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+RubyMine                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 
 🐱‍💻 Projects: 
-frontend-core            5 hrs 4 mins        █████████████████░░░░░░░░   68.48 % 
-employment-hero          2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-phutruong                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-ats                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+frontend-core            3 hrs 40 mins       ████████████████░░░░░░░░░   64.67 % 
+employment-hero          1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
+phutruong                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+ats                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (80.96%)
+⏱ AI Coding Time: 4 hrs 36 mins (81.07%)
 
-✍️ 1,537 lines written by AI, 602 lines written by hand (71.86% AI-written)
+✍️ 1,363 lines written by AI, 592 lines written by hand (69.72% AI-written)
 
-🔤 2,196,946 Input Tokens, 191,051 Output Tokens
+🔤 1,897,996 Input Tokens, 152,631 Output Tokens
 
-💵 $67.41 Estimated AI Cost This Week
+💵 $59.77 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 162 AI Prompts
+🧠 17 AI Sessions, 127 AI Prompts
 
-Sonnet                   2,939 lines         ████████████████████████░   96.42 % 
-Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Sonnet                   2,729 lines         ████████████████████████░   96.16 % 
+Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.86% of written lines came from AI
-📚 Verbose Prompter — average 1,828 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 55.76% of changed lines were hand-edited
+🤖 AI-Driven — 69.72% of written lines came from AI
+📚 Verbose Prompter — average 1,959 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 59.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -165,7 +165,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 12:39:35 UTC
+ Last Updated on 22/09/2026 11:26:19 UTC
 <!--END_SECTION:waka-->
 
 
