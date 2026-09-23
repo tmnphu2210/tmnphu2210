@@ -102,50 +102,47 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 27 mins       ███████████████░░░░░░░░░░   60.82 % 
-Ruby                     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-API Blueprint            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               2 hrs 24 mins       █████████████████░░░░░░░░   68.20 % 
+Ruby                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 50 mins       █████████████████░░░░░░░░   67.51 % 
-VS Code                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-RubyMine                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Claude Code              2 hrs 28 mins       ██████████████████░░░░░░░   70.29 % 
+VS Code                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+RubyMine                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 
 🐱‍💻 Projects: 
-frontend-core            3 hrs 40 mins       ████████████████░░░░░░░░░   64.67 % 
-employment-hero          1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
-phutruong                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-ats                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+frontend-core            2 hrs 30 mins       ██████████████████░░░░░░░   70.85 % 
+employment-hero          1 hr                ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+phutruong                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 36 mins (81.07%)
+⏱ AI Coding Time: 2 hrs 57 mins (83.76%)
 
-✍️ 1,363 lines written by AI, 592 lines written by hand (69.72% AI-written)
+✍️ 837 lines written by AI, 144 lines written by hand (85.32% AI-written)
 
-🔤 1,897,996 Input Tokens, 152,631 Output Tokens
+🔤 1,063,012 Input Tokens, 75,207 Output Tokens
 
-💵 $59.77 Estimated AI Cost This Week
+💵 $48.44 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 127 AI Prompts
+🧠 10 AI Sessions, 84 AI Prompts
 
-Sonnet                   2,729 lines         ████████████████████████░   96.16 % 
-Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   2,214 lines         ████████████████████████░   95.31 % 
+Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.72% of written lines came from AI
-📚 Verbose Prompter — average 1,959 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 59.22% of changed lines were hand-edited
+🤖 AI-Driven — 85.32% of written lines came from AI
+📚 Verbose Prompter — average 1,512 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 14.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -165,7 +162,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 11:26:19 UTC
+ Last Updated on 23/09/2026 11:23:06 UTC
 <!--END_SECTION:waka-->
 
 
