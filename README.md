@@ -102,44 +102,22 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               41 mins             ██████████████████░░░░░░░   71.12 % 
-Ruby                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              49 mins             █████████████████████░░░░   85.06 % 
-VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-RubyMine                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend-core            46 mins             ████████████████████░░░░░   80.20 % 
-employment-hero          11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (92.54%)
-
-✍️ 382 lines written by AI, 141 lines written by hand (73.04% AI-written)
-
-🔤 231,808 Input Tokens, 21,500 Output Tokens
-
-💵 $40.40 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 19 AI Prompts
-
-Sonnet                   1,928 lines         ████████████████████████░   94.65 % 
-Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 73.04% of written lines came from AI
-📚 Verbose Prompter — average 4,746 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.8% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -159,7 +137,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 11:15:38 UTC
+ Last Updated on 27/09/2026 11:55:02 UTC
 <!--END_SECTION:waka-->
 
 
