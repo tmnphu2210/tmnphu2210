@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-283%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,360 Contributions in the Year 2026
+> 🏆 1,361 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,44 +102,49 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 37 mins             ███████████░░░░░░░░░░░░░░   42.16 % 
-TypeScript               29 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
-API Blueprint            11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+TypeScript               2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.12 % 
+Ruby                     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+API Blueprint            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ████████████████████████░   96.06 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Claude Code              2 hrs 53 mins       ███████████████░░░░░░░░░░   61.25 % 
+RubyMine                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+VS Code                  42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 🐱‍💻 Projects: 
-frontend-core            1 hr 11 mins        ████████████████████░░░░░   80.20 % 
-employment-hero          17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+frontend-core            3 hrs 14 mins       █████████████████░░░░░░░░   69.42 % 
+performance-evaluation   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+employment-hero          37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+ats                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (98.44%)
+⏱ AI Coding Time: 3 hrs 2 mins (65.15%)
 
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1 lines written by AI, 5 lines written by hand (16.67% AI-written)
 
-🔤 329,927 Input Tokens, 56,331 Output Tokens
+🔤 1,374,130 Input Tokens, 121,692 Output Tokens
 
-💵 $39.85 Estimated AI Cost This Week
+💵 $48.51 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 15 AI Prompts
+🧠 9 AI Sessions, 48 AI Prompts
 
 Sonnet                   1,356 lines         ███████████████████████░░   92.56 % 
 Haiku                    109 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,718 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.67% of written lines came from AI
+📚 Verbose Prompter — average 1,763 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 93.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -159,7 +164,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 13:10:46 UTC
+ Last Updated on 08/10/2026 13:18:38 UTC
 <!--END_SECTION:waka-->
 
 
