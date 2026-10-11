@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -102,47 +102,47 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
-Ruby                     2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-API Blueprint            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Ruby                     3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+TypeScript               2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+API Blueprint            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 30 mins       █████████████░░░░░░░░░░░░   53.32 % 
-RubyMine                 2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
-VS Code                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Claude Code              4 hrs 25 mins       ██████████████░░░░░░░░░░░   55.73 % 
+RubyMine                 2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
+VS Code                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🐱‍💻 Projects: 
-frontend-core            3 hrs 37 mins       ██████████████░░░░░░░░░░░   55.58 % 
-performance-evaluation   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-employment-hero          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-ats                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+frontend-core            3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
+performance-evaluation   3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+employment-hero          58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+ats                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+application-infrastructur0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (57.78%)
+⏱ AI Coding Time: 4 hrs 48 mins (60.71%)
 
 ✍️ 457 lines written by AI, 6 lines written by hand (98.7% AI-written)
 
-🔤 1,543,326 Input Tokens, 163,831 Output Tokens
+🔤 1,769,633 Input Tokens, 194,150 Output Tokens
 
-💵 $50.62 Estimated AI Cost This Week
+💵 $52.64 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 76 AI Prompts
+🧠 15 AI Sessions, 91 AI Prompts
 
 Sonnet                   2,033 lines         ████████████████████████░   94.91 % 
 Haiku                    109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.7% of written lines came from AI
-📄 Detailed Prompter — average 1,133 characters per prompt
+📚 Verbose Prompter — average 2,261 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 2.16% of changed lines were hand-edited
 ```
@@ -164,7 +164,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 12:21:44 UTC
+ Last Updated on 11/10/2026 12:38:11 UTC
 <!--END_SECTION:waka-->
 
 
