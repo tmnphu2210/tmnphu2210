@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,366 Contributions in the Year 2026
+> 🏆 1,383 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,11 +150,11 @@ Haiku                    109 lines           █░░░░░░░░░░�
 **I Mostly Code in Ruby** 
 
 ```text
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-D                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+D                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -164,7 +164,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 12:38:11 UTC
+ Last Updated on 12/10/2026 15:11:52 UTC
 <!--END_SECTION:waka-->
 
 
