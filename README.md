@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </span>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C182%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,80 +75,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.62 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.15 % 
-Ruby                     3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.02 % 
-RubyMine                 2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-VS Code                  2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-
-🐱‍💻 Projects: 
-frontend-core            4 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.64 % 
-performance-evaluation   2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-employment-hero          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-heroai                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-phutruong                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-
-💻 Operating System: 
-Mac                      9 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 2 mins (55.8%)
-
-✍️ 91 lines written by AI, 510 lines written by hand (15.14% AI-written)
-
-🔤 2,023,855 Input Tokens, 201,729 Output Tokens
-
-💵 $59.63 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 100 AI Prompts
-
-Sonnet                   1,438 lines         ███████████████████████░░   92.42 % 
-Haiku                    109 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.14% of written lines came from AI
-📚 Verbose Prompter — average 3,012 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 89.09% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -166,7 +92,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 10:32:14 UTC
+ Last Updated on 18/10/2026 10:52:55 UTC
 <!--END_SECTION:waka-->
 
 
