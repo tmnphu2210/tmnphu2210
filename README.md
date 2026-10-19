@@ -75,6 +75,80 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌃 Evening                1200 commits        ███████████████░░░░░░░░░░   58.62 % 
+🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Tuesday                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Saturday                 90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               4 hrs 11 mins       █████████████░░░░░░░░░░░░   51.32 % 
+Ruby                     2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
+RubyMine                 2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
+VS Code                  2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+
+🐱‍💻 Projects: 
+frontend-core            4 hrs 24 mins       ██████████████░░░░░░░░░░░   54.00 % 
+performance-evaluation   1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+employment-hero          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+heroai                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+phutruong                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+
+💻 Operating System: 
+Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 7 mins (50.46%)
+
+✍️ 91 lines written by AI, 527 lines written by hand (14.72% AI-written)
+
+🔤 2,117,152 Input Tokens, 185,541 Output Tokens
+
+💵 $17.73 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 90 AI Prompts
+
+Sonnet                   83 lines            ███████████████████████░░   90.22 % 
+Opus                     9 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 14.72% of written lines came from AI
+📚 Verbose Prompter — average 3,989 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 89.58% of changed lines were hand-edited
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -92,7 +166,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tmnphu2210/tmnphu2210/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 10:52:55 UTC
+ Last Updated on 19/10/2026 12:54:30 UTC
 <!--END_SECTION:waka-->
 
 
